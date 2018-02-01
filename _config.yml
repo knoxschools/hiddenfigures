@@ -3,7 +3,7 @@ title: How Gender, Race, and Ideology Affected Discrimination
 bio: "Many influential figures were discriminated against on unfair grounds."
 description: "Many influential figures were discriminated against on unfair grounds."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/hiddenfigures" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
