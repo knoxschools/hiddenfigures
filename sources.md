@@ -1,0 +1,16 @@
+---
+layout: page
+title: Sources
+description: Our information
+sitemap:
+    priority: 0.7
+    lastmod: 2018-02-11
+    changefreq: weekly
+---
+
+
+
+  * Bird, Kai, and Martin J. Sherwin. _American Prometheus: the triumph and tragedy of J. Robert Oppenheimer._ Atlantic, 2009.
+  * Bethe, Hans A. _The Road From Los Alamos._ Simon & Schuster, 1991.
+  * Haynes, John Earl. _Early Cold War Spies: The Espionage Trials that Shaped American Politics._ Cambridge, Massachusetts: Cambridge University Press, 2006
+
