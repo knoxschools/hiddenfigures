@@ -2,7 +2,7 @@
 layout: post
 title:  "Robert Oppenheimer"
 date:   2018-02-01
-excerpt: "Ideological differences were a source of discrimination in his life"
+excerpt: "Ideological differences were a source of discrimination in his life, rather than racial or gender-based discrimination"
 image: "/images/op.jpg"
 ---
 
