@@ -7,11 +7,8 @@ sitemap:
     lastmod: 2018-02-11
     changefreq: weekly
 ---
-{:center: style="text-align: center"}
 
-### Sources
-
-{:center}
+<h3 style="text-align: center"><b>SOURCES</b></h3>
 
 
   * Bird, Kai, and Martin J. Sherwin. _American Prometheus: the triumph and tragedy of J. Robert Oppenheimer._ Atlantic, 2009.
