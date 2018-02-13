@@ -16,3 +16,9 @@ sitemap:
   * Haynes, John Earl. _Early Cold War Spies: The Espionage Trials that Shaped American Politics._ Cambridge, Massachusetts: Cambridge University Press, 2006
   * Department of Energy. _J. Robert Oppenheimer Personnel Hearings Transcripts._ Department of Energy (DOE) OpenNet documents. Retrieved 17 January 2015.
 
+  * Paul Wermager, _Healing the Sick_ in "They Followed the Trade Winds" (Honolulu: University of Hawaii Press, 2005) pp. 171-17; "Instructor Dies," The Belllingham Herald, Jan. 1, 1917 
+  * Brown, Jeannette. _African American Women Chemists._ New York: Oxford University Press. pp. 19–24.
+
+
+
+
